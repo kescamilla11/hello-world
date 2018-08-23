@@ -1,2 +1,2 @@
-# hello-world
-This is the tutorial
+# Kevin Escamilla - Computer Science
+This is the tutorial.
